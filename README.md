@@ -1,1 +1,1 @@
-# End_to_End_diabetes_prediction
+# End_to_End_Multiple_Disease_Prediction
